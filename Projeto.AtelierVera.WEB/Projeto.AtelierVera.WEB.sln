@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.AtelierVera.WEB", "Projeto.AtelierVera.WEB\Projeto.AtelierVera.WEB.csproj", "{C8B834F0-6E06-46BB-B6AD-A1FEA0011396}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{B6245572-FC03-4BF3-81B8-75F3E60D0F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atelier.Mascara.Dominio", "Atelier.Mascara.Dominio\Atelier.Mascara.Dominio.csproj", "{A09FE422-60C1-4EDA-885A-8FE2C8BC539F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dados", "Dados", "{C5F9F1F1-11B7-4FC5-9818-05D4CAC3877D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atelier.Mascara.Dados.Entity", "Atelier.Mascara.Dados.Entity\Atelier.Mascara.Dados.Entity.csproj", "{F4B7130F-DBBD-4B20-B4DE-FB5F631DDB25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atelier.Mascara.Generica.Entity", "Atelier.Mascara.Generica.Entity\Atelier.Mascara.Generica.Entity.csproj", "{8730FA6E-F2F2-4E7B-BFD7-92D19EB89812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8B834F0-6E06-46BB-B6AD-A1FEA0011396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B834F0-6E06-46BB-B6AD-A1FEA0011396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B834F0-6E06-46BB-B6AD-A1FEA0011396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B834F0-6E06-46BB-B6AD-A1FEA0011396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A09FE422-60C1-4EDA-885A-8FE2C8BC539F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09FE422-60C1-4EDA-885A-8FE2C8BC539F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09FE422-60C1-4EDA-885A-8FE2C8BC539F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09FE422-60C1-4EDA-885A-8FE2C8BC539F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B7130F-DBBD-4B20-B4DE-FB5F631DDB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B7130F-DBBD-4B20-B4DE-FB5F631DDB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B7130F-DBBD-4B20-B4DE-FB5F631DDB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B7130F-DBBD-4B20-B4DE-FB5F631DDB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8730FA6E-F2F2-4E7B-BFD7-92D19EB89812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8730FA6E-F2F2-4E7B-BFD7-92D19EB89812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8730FA6E-F2F2-4E7B-BFD7-92D19EB89812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8730FA6E-F2F2-4E7B-BFD7-92D19EB89812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A09FE422-60C1-4EDA-885A-8FE2C8BC539F} = {B6245572-FC03-4BF3-81B8-75F3E60D0F02}
+		{F4B7130F-DBBD-4B20-B4DE-FB5F631DDB25} = {C5F9F1F1-11B7-4FC5-9818-05D4CAC3877D}
+		{8730FA6E-F2F2-4E7B-BFD7-92D19EB89812} = {C5F9F1F1-11B7-4FC5-9818-05D4CAC3877D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21995553-D257-4C63-ABD1-6E4BBAA06EEE}
+	EndGlobalSection
+EndGlobal
