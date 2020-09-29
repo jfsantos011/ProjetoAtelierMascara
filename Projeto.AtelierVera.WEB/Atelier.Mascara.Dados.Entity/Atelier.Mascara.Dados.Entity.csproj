@@ -52,6 +52,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\MascaraDBContext.cs" />
+    <Compile Include="Migrations\202009290339069_MigracaoInical.cs" />
+    <Compile Include="Migrations\202009290339069_MigracaoInical.designer.cs">
+      <DependentUpon>202009290339069_MigracaoInical.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TypeConfiguration\TipoMascaraTypeConfiguration.cs" />
@@ -69,6 +73,11 @@
       <Project>{8730fa6e-f2f2-4e7b-bfd7-92d19eb89812}</Project>
       <Name>Atelier.Mascara.Generica.Entity</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202009290339069_MigracaoInical.resx">
+      <DependentUpon>202009290339069_MigracaoInical.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

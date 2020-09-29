@@ -6,11 +6,14 @@ C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.Ateli
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\bin\Debug\EntityFramework.dll
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\bin\Debug\Atelier.Mascara.Dominio.pdb
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\bin\Debug\Atelier.Mascara.Dominio.dll.config
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\bin\Debug\Atelier.Mascara.Generica.Entity.pdb
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\bin\Debug\Atelier.Mascara.Generica.Entity.dll.config
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\bin\Debug\EntityFramework.xml
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\obj\Debug\Atelier.Mascara.Dados.Entity.csprojAssemblyReference.cache
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\obj\Debug\Atelier.Mascara.Dados.Entity.Migrations.MigracaoInical.resources
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\obj\Debug\Atelier.Mascara.Dados.Entity.csproj.GenerateResource.cache
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\obj\Debug\Atelier.Mascara.Dados.Entity.csproj.CoreCompileInputs.cache
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\obj\Debug\Atelier.Mascara.Dados.Entity.csproj.CopyComplete
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dados.Entity\obj\Debug\Atelier.Mascara.Dados.Entity.dll

@@ -1,6 +1,12 @@
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dominio\bin\Debug\Atelier.Mascara.Dominio.dll.config
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dominio\bin\Debug\Atelier.Mascara.Dominio.dll
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dominio\bin\Debug\Atelier.Mascara.Dominio.pdb
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dominio\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dominio\obj\Debug\Atelier.Mascara.Dominio.csprojAssemblyReference.cache
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dominio\obj\Debug\Atelier.Mascara.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dominio\obj\Debug\Atelier.Mascara.Dominio.csproj.CopyComplete
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dominio\obj\Debug\Atelier.Mascara.Dominio.dll
 C:\Users\joaof\Documents\Unipam\DESENVOLVIMENTO_SI_AVANCADOS\Aulas\Projeto.AtelierVera.WEB\Atelier.Mascara.Dominio\obj\Debug\Atelier.Mascara.Dominio.pdb
